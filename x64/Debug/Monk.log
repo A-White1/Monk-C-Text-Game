@@ -1,0 +1,11 @@
+﻿  EmptyRoom.cpp
+  Enemy.cpp
+  MonkGame.cpp
+  MonkCharacter.cpp
+  MonsterRoom.cpp
+  pch.cpp
+  Room.cpp
+  TreasureRoom.cpp
+  UpgradeRoom.cpp
+  Generating Code...
+  Monk.vcxproj -> C:\Users\aadam\Desktop\Projects\Monk\Monk-C-Text-Game\x64\Debug\Monk.exe
